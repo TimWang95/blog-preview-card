@@ -8,8 +8,8 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
 
 ## Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: [GitHub repo](https://github.com/TimWang95/blog-preview-card)
+- Live Site URL: [solution demo](https://main--eloquent-maamoul-602672.netlify.app/)
 
 ## Built with
 - <img src="./public/react.svg" alt="react" width="25"> React
